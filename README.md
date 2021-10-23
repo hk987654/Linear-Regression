@@ -15,19 +15,15 @@ In this assignment I am concentrating on the reason for Rising Temperature. For 
 
 ## Climate Change - Preparing Data
 <img align='left' src="https://www.itbusinessedge.com/wp-content/uploads/2021/03/DatawatchPreparingAnalyticData01.jpg"  >
+Data preparation is the process of cleaning and transforming raw data prior to processing and analysis. It is an important step prior to processing and often involves reformatting data, making corrections to data and the combining of data sets to enrich data.
 
-This data is chosen from https://www.kaggle.com/vageeshabudanur/riseintemp-dataset
+Data preparation is often a lengthy undertaking for data professionals or business users, but it is essential as a prerequisite to put data in context in order to turn it into insights and eliminate bias resulting from poor data quality.
+
+The data for our project is chosen from https://www.kaggle.com/vageeshabudanur/riseintemp-dataset
 
 The file climate_change.csv contains climate data from May 1985 to December 2005. The available variables include:
 
 parameters are Year ,Month, MEI, CO2,CH4,N2O,CFC-11,CFC-12,TSI,Aerosols,Temp.But for performing linear regression we are just doing with two parameters years vs. temperature rising.
-
-
-
-
-
-
-
 
 ## Linear Regression Model
 <img align='left' src="http://www.sthda.com/english/sthda-upload/images/machine-learning-essentials/linear-regression.png"  >
