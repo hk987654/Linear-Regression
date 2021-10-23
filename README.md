@@ -14,6 +14,8 @@ In this assignment I am concentrating on the reason for Rising Temperature. For 
 
 
 ## Climate Change - Preparing Data
+<img align='left' src="https://www.itbusinessedge.com/wp-content/uploads/2021/03/DatawatchPreparingAnalyticData01.jpg"  >
+
 This data is chosen from https://www.kaggle.com/vageeshabudanur/riseintemp-dataset
 
 The file climate_change.csv contains climate data from May 1985 to December 2005. The available variables include:
@@ -21,6 +23,8 @@ The file climate_change.csv contains climate data from May 1985 to December 2005
 parameters are Year ,Month, MEI, CO2,CH4,N2O,CFC-11,CFC-12,TSI,Aerosols,Temp.But for performing linear regression we are just doing with two parameters years vs. temperature rising.
 
 ## Linear Regression Model
+<img align='left' src="http://www.sthda.com/english/sthda-upload/images/machine-learning-essentials/linear-regression.png"  >
+
 The aim of linear regression is to model a continuous variable y as a mathematical function of one or more x variable(s), so that we can use this regression model to predict the y when only the x is known. This mathematical equation can be generalized as follows:
 ```y=a+bx+ϵ```
 
