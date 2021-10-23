@@ -22,6 +22,13 @@ The file climate_change.csv contains climate data from May 1985 to December 2005
 
 parameters are Year ,Month, MEI, CO2,CH4,N2O,CFC-11,CFC-12,TSI,Aerosols,Temp.But for performing linear regression we are just doing with two parameters years vs. temperature rising.
 
+
+
+
+
+
+
+
 ## Linear Regression Model
 <img align='left' src="http://www.sthda.com/english/sthda-upload/images/machine-learning-essentials/linear-regression.png"  >
 
