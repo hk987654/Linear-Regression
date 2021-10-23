@@ -28,6 +28,8 @@ parameters are Year ,Month, MEI, CO2,CH4,N2O,CFC-11,CFC-12,TSI,Aerosols,Temp.But
 ## Linear Regression Model
 <img align='left' src="http://www.sthda.com/english/sthda-upload/images/machine-learning-essentials/linear-regression.png"  >
 
+Linear regression is perhaps one of the most well known and well understood algorithms in statistics and machine learning.
+
 Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. 
 The variable you are using to predict the other variable's value is called the independent variable.
 
