@@ -1,4 +1,5 @@
-# Linear-Regression
+# Linear-Regression VAC Project
+- Harshit Kandhwey (RA1911026020001)
 
 ## Introduction
 <img align='left' src="https://media0.giphy.com/media/l0HlMURBbyUqF0XQI/giphy.gif"  >
